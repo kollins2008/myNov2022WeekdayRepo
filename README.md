@@ -1,0 +1,1 @@
+# myNov2022WeekdayRepo
